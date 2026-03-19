@@ -106,6 +106,8 @@ These skills help you write, refactor, and fix code.
 
 - **ubiquitous-language** — Extract a DDD-style ubiquitous language glossary from the current conversation.
 
+  - Updated agent skills list with planning, development, and tooling enhancements.
+
   ```
   npx skills@latest add mattpocock/skills/ubiquitous-language
   ```
