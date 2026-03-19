@@ -114,4 +114,6 @@ These skills help you write, refactor, and fix code.
 
   ```
   npx skills@latest add mattpocock/skills/obsidian-vault
+
+   Improved documentation clarity and structure for better readability.
   ```
